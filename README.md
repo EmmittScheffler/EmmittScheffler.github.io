@@ -1,3 +1,4 @@
 # EmmittScheffler.github.io
 
-M4.2 Create a GitHub Page Repository
+This is my M4.2 repository for CS155
+A link to the repository is here: 
